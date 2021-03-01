@@ -1,0 +1,101 @@
+
+body{
+    background-color: gold;
+}
+
+
+
+title{
+    color: red;
+    background-color: gold;
+}
+.band-name{
+    text-align: center;
+    font-size: 46px;
+    font-style: inherit;
+    border-color: khaki;
+    border: 3px 0px 3px 0px;
+    border-style: solid;
+    background-color: chocolate;
+
+    
+}
+P{
+    color: black;
+    text-align: justify;
+    text-decoration: cyan;
+    font-size: larger;
+    width: auto;
+    font-style: italic;
+}
+h1, h2{
+    text-align: center;
+    color: green;
+    
+
+}
+body{
+    background-color: beige;
+    
+}
+.TOK{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+
+    
+}
+ol{
+    color: green;
+}
+.franco {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+
+}
+.band-history{
+    text-align: center;
+    font-size: 46px;
+    font-style: inherit;
+    border-color: khaki;
+    border: 1px 0px 1px 0px;
+    border-style: solid;
+    background-color: violet;
+}
+.leader{
+    
+    text-align: center;
+    font-size: 46px;
+    font-style: inherit;
+    border-color: khaki;
+    border: 1px 0pxpx 1px 0px;
+    border-style: solid;
+    background-color: violet;
+}
+.music{
+    
+    text-align: center;
+    font-size: 46px;
+    font-style: inherit;
+    border-color: khaki;
+    border: 1px 0pxpx 1px 0px;
+    border-style: solid;
+    background-color: violet;
+}
+.group-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 50%;
+
+}
