@@ -20,7 +20,7 @@ HTML
 JavaScript
 Git
 ### Live Site
-View [live](https://hamida-mstafa.github.io/fev-band/)
+View [live](https://github.com/Jn-mic/my-favorite-band)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 License format:
