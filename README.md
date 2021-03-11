@@ -20,7 +20,7 @@ HTML
 JavaScript
 Git
 ### Live Site
-View [live](https://github.com/Jn-mic/my-favorite-band)
+View [live](https://jn-mic.github.io/my-favorite-band/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 License format:
