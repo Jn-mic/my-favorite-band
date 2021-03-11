@@ -1,5 +1,5 @@
 
-# Music Band
+# Music Band.
 ## Author
 Jack Owour
 ## Description
