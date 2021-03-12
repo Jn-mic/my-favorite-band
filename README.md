@@ -8,8 +8,6 @@ Its a website that expalins more about my favorite music band- Rhumba by Franco 
 ### Technologies Used
 HTML
  CSS
-JavaScript
-Git
 ### Live Site
 View [live](https://jn-mic.github.io/my-favorite-band/)
 ### Licence
